@@ -4,4 +4,9 @@ Sebutkan beberapa CSS Framework selain Bootstrap
 Bagaimana tata cara penggunaan Bootstrap?
 
 Jawab : 
-1. 
+1. CSS framework adalah framework yang berfungsi untuk memberi kemudahan dalam mendesain website atau aplikasi, terutama bagian layout atau terutama
+2. Tidak, karena CSS memiliki berbagai macam framework, tidak hanya bootstrap
+3. Tailwind, Semantic UI, Miligram, UI kit, dsb
+4. Bootstrap dapat digunakan dengan 2 cara yaitu:
+    1. Offline : Menginstal bootstrap pada laptop dan mendownload filenya
+    2. Online : Menggunakan link yang disediakan bootstrap dan di copykan pada file html, lalu menambahkan atribute class sesuai kebutuhan.
